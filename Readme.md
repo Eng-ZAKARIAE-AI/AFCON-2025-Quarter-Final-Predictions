@@ -80,8 +80,7 @@ form_boost = {
 ```
 ##  After Match : 
 
-## 📸 Match Results Preview
-Below is a screenshot of the model's prediction output:
+##  Match Results Preview
 
 ![AFCON Prediction Results](https://github.com/Eng-ZAKARIAE-AI/AFCON-2025-Quarter-Final-Predictions/blob/master/assets/afterMatchesResult.png)
 
