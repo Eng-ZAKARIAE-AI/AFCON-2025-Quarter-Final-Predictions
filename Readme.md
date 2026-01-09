@@ -1,5 +1,5 @@
 
-#  AFCON 2025 AI Predictor ("Moneyball" Edition)
+#  AFCON 2025 AI Predictor
 
 > **A robust, history-aware Machine Learning engine that predicts Match Winners and Exact Scores for the Africa Cup of Nations.**
 
