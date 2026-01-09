@@ -78,6 +78,13 @@ form_boost = {
 }
 
 ```
+##  After Match : 
+
+```
+https://github.com/Eng-ZAKARIAE-AI/AFCON-2025-Quarter-Final-Predictions/blob/master/assets/afterMatchesResult.png
+
+```
+
 
 ##  Project Structure
 
