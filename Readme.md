@@ -11,16 +11,16 @@ It combines **Gradient Boosting** (to predict who wins) with **Poisson Distribut
 
 ## Key Features
 
-* ** Dynamic Elo Engine:** Calculates team strength match-by-match historically (e.g., beating a strong Nigeria gives more points than beating a weak team).
-* ** Hybrid Prediction Model:**
-* ** The Brain:** Uses `GradientBoostingClassifier` to determine *Win/Draw/Loss* probabilities.
-* ** The Dice:** Uses `numpy.random.poisson` to generate realistic *Goal Counts*.
+* **Dynamic Elo Engine:** Calculates team strength match-by-match historically (e.g., beating a strong Nigeria gives more points than beating a weak team).
+* **Hybrid Prediction Model:**
+* **The Brain:** Uses `GradientBoostingClassifier` to determine *Win/Draw/Loss* probabilities.
+* **The Dice:** Uses `numpy.random.poisson` to generate realistic *Goal Counts*.
 
 
-* **  Consistency Check:** A specialized loop that forces the generated scoreline to match the Machine Learning prediction (prevents "Team A wins" with a "0-1" score).
-* **  Context Awareness:** Includes a `form_boost` parameter to account for **Home Advantage** (Morocco) or **Squad Quality** (Senegal, Nigeria) manually.
+* **Consistency Check:** A specialized loop that forces the generated scoreline to match the Machine Learning prediction (prevents "Team A wins" with a "0-1" score).
+* **Context Awareness:** Includes a `form_boost` parameter to account for **Home Advantage** (Morocco) or **Squad Quality** (Senegal, Nigeria) manually.
 
-##   Tech Stack
+##Tech Stack
 
 * **Python 3.x**
 * **Pandas:** For historical data processing.
