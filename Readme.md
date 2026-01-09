@@ -1,6 +1,3 @@
-Here is a professional, clean `README.md` for your project. You can copy this directly into a file named `README.md`.
-
----
 
 # ⚽ AFCON 2025 AI Predictor ("Moneyball" Edition)
 
